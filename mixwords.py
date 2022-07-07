@@ -1,0 +1,7 @@
+a=raw_input("enter the first string:")
+b=raw_input("enter the second string:")
+c=raw_input("enter the third string:")
+d="".join(a)
+e="".join(b)
+f="".join(c)
+print(d+"  "+e+"  "+f+"  ")
